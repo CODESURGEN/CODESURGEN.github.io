@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CODESURGEN.github.io/static/css/main.ae42ac5f.css",
+    "main.js": "/CODESURGEN.github.io/static/js/main.0b162ac6.js",
+    "static/js/453.ed3810f9.chunk.js": "/CODESURGEN.github.io/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/CODESURGEN.github.io/index.html",
+    "main.ae42ac5f.css.map": "/CODESURGEN.github.io/static/css/main.ae42ac5f.css.map",
+    "main.0b162ac6.js.map": "/CODESURGEN.github.io/static/js/main.0b162ac6.js.map",
+    "453.ed3810f9.chunk.js.map": "/CODESURGEN.github.io/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.0b162ac6.js"
+  ]
+}
